@@ -12,3 +12,6 @@ Multiple Cucumber files were not created to not to hastle the speed of test runn
 *.cy.js files are as to be run to accomplish the task.
 
 Tests with Cucumber are upaloaded on the Google Drive here: https://drive.google.com/drive/folders/1LeHEBydR5ikqMH7duZ51jl9JpDmrDKRy?usp=sharing
+
+
+Cypress currently doesnot support for window change automation so the scenario feature for uploading proposal is not tested. 
